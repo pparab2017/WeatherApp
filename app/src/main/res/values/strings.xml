@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="btnSubmitTag">Submit</string>
+    <string name="textTagAllWeather">HOURLY DATA</string>
+    <string name="tagfeelsLike">Feels Like:</string>
+    <string name="tagHumidity">Humidity:</string>
+    <string name="tagDewPoint">Dewpoint:</string>
+    <string name="tagPressure">Pressure:</string>
+    <string name="tagClouds">Clouds:</string>
+    <string name="tagWind">Wind:</string>
+    <string name="locationTag">Current Location:</string>
+    <string name="favoriteTag">Favorites</string>
+
+    <string name="errorNoCityState">Please Enter the city and state.</string>
+    <string name="errorNoCityInFav">There is no city in your Favorites</string>
+
+    <string name="UpdatedFavoritesRecordTag">Updated Favorites Record</string>
+    <string name="AddedtoFavoritesTag">Added to Favorites</string>
+
+
+</resources>
